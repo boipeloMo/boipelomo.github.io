@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="validationTitle validationDesc">
+  <title id="validationTitle">Form Validation App preview</title>
+  <desc id="validationDesc">A stylized preview card for the Form Validation App project.</desc>
+  <defs>
+    <linearGradient id="validationBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111f33" />
+      <stop offset="100%" stop-color="#0b1525" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" rx="36" fill="url(#validationBg)" />
+  <path d="M560 0h240v180c-60-22-118-62-170-119C603 39 582 19 560 0Z" fill="#5eead4" opacity="0.08" />
+  <text x="64" y="82" fill="#f6b86d" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">REAL-TIME FEEDBACK</text>
+  <text x="64" y="150" fill="#edf4ff" font-family="Arial, sans-serif" font-size="52" font-weight="700">Form Validation</text>
+  <rect x="64" y="196" width="672" height="248" rx="28" fill="#0f1f35" stroke="rgba(255,255,255,0.12)" />
+  <rect x="96" y="234" width="290" height="20" rx="8" fill="#96a8c6" opacity="0.45" />
+  <rect x="96" y="266" width="608" height="48" rx="16" fill="#152b48" />
+  <rect x="96" y="336" width="220" height="20" rx="8" fill="#96a8c6" opacity="0.45" />
+  <rect x="96" y="368" width="608" height="48" rx="16" fill="#152b48" />
+  <circle cx="670" cy="290" r="28" fill="#5eead4" />
+  <path d="m658 290 9 10 18-23" fill="none" stroke="#04111d" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" />
+  <text x="64" y="478" fill="#96a8c6" font-family="Arial, sans-serif" font-size="24">Clear validation states that guide users confidently through forms.</text>
+</svg>
